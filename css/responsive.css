@@ -56,7 +56,7 @@
 
 @media only screen and (max-width: 750px) {
   #navbar nav a.menu-icon {
-    display: none;
+    display: block;
   }
 
 }
