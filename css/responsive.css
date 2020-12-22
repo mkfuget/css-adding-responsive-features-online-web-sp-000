@@ -12,8 +12,21 @@
     font-size: 85%;
   }
   #logo h1{
+    height: 35px;
+    width: 35px;
+  }
+  
+  #logo f2 {
+    font-size: 2.2em;
+  }
+  #social{
+    top: 72px;
+  }
+    .col-3 p{
+    column-count: 1;
     
   }
+
 }
 @media only screen and (max-width: 750px) {
   #navbar nav a{
